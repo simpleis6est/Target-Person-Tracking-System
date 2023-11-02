@@ -4,3 +4,8 @@ Target Person Tracking System
 ```sh
 python3 -m venv target_tracking
 ```
+### AI model 1.facial recognition
+
+
+### AI model 2.Object Tracking
+- Person Tracking with OpenVINO
