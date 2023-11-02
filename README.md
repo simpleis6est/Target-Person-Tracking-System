@@ -7,6 +7,10 @@ python3 -m venv target_tracking
 ### requirements.txt 
 
 ### AI model 1.facial recognition
+
+
+### AI model 2.Object Tracking
+- Person Tracking with OpenVINO
 ```py
 import notebook_utils as utils
 from deepsort_utils.tracker import Tracker
@@ -417,7 +421,3 @@ run_person_tracking(source=0, flip=True, use_popup=True)
 video_file = 'https://storage.openvinotoolkit.org/repositories/openvino_notebooks/data/data/video/people.mp4'
 run_person_tracking(source=video_file, flip=False, use_popup=True)
 ```
-
-
-### AI model 2.Object Tracking
-- Person Tracking with OpenVINO
