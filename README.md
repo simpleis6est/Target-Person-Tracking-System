@@ -4,6 +4,8 @@ Target Person Tracking System
 ```sh
 python3 -m venv target_tracking
 ```
+### requirements.txt 
+
 ### AI model 1.facial recognition
 
 
