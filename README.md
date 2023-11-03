@@ -33,9 +33,12 @@ python ./face_recognition_demo.py
 
 ### Result img
 
-![스크린샷 2023-11-03 14-58-07](https://github.com/simpleis6est/Target-Person-Tracking-System/assets/143490860/6eca9b82-f30b-4328-a7f5-96ed27bf3ad9)
-![스크린샷 2023-11-03 14-58-30](https://github.com/simpleis6est/Target-Person-Tracking-System/assets/143490860/8080bb3b-a9e5-48a0-9840-67bd2fe88f07)
 
+![스크린샷 2023-11-03 14-58-07](https://github.com/simpleis6est/Target-Person-Tracking-System/assets/143490860/6eca9b82-f30b-4328-a7f5-96ed27bf3ad9)
+not Wonbin
+
+![스크린샷 2023-11-03 14-58-30](https://github.com/simpleis6est/Target-Person-Tracking-System/assets/143490860/8080bb3b-a9e5-48a0-9840-67bd2fe88f07)
 
 ![스크린샷 2023-11-03 15-01-30](https://github.com/simpleis6est/Target-Person-Tracking-System/assets/143490860/20e9c233-ebea-47ec-9708-d9af4be02cc0)
 
+Wonbin
