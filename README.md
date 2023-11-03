@@ -706,8 +706,8 @@ run_person_tracking(source=0, flip=True, use_popup=True)
 video_file = 'https://storage.openvinotoolkit.org/repositories/openvino_notebooks/data/data/video/people.mp4'
 run_person_tracking(source=video_file, flip=False, use_popup=True)
 ```
- ### 3. Image augmentation
 
+ ### 3. Image augmentation
 import cv2
 import os
 import numpy as np
