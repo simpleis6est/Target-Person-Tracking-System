@@ -708,6 +708,7 @@ run_person_tracking(source=video_file, flip=False, use_popup=True)
 ```
 
  ### 3. Image augmentation
+ '''
 import cv2
 import os
 import numpy as np
@@ -775,3 +776,4 @@ for k, augmentation_seq in enumerate(augmentations_imgaug):
         unique_augmented_images.append(image_aug)
 
 print(f"Generated {len(unique_augmented_images)} unique augmented images in '{output_dir}'.")
+'''
