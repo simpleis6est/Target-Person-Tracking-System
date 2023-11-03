@@ -1,7 +1,7 @@
 # Title : Target-Person-Tracking-System
 Target Person Tracking System
 
-In this project, our goal is to integrate face recognition and person tracking, both of which are provided by Openvino. If the program detects and identifies a specific individual, the software then checks whether the match rate is 70% or higher in relation to a previously trained target. Once this threshold is met (i.e., when the program confirms the person to be recognized), the software draws a square around the person and continues to track them. Additionally, we utilized data augmentation to train the program with images of the South Korean actor Wonbin.
+In this project, our goal is to integrate face recognition and person tracking, both of which are provided by Openvino. If the programme detects and identifies a specific individual, the software then checks whether the match rate is 70% or higher in relation to a previously trained target. Once this threshold is met (i.e., when the programme confirms the person to be recognized), the software draws a square around the person and continues to track them. Additionally, we utilized data augmentation to train the programme with images of the South Korean actor Wonbin.
 
 
 ### Virtual Enviroment
