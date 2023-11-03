@@ -708,7 +708,7 @@ run_person_tracking(source=video_file, flip=False, use_popup=True)
 ```
 
  ### 3. Image augmentation
- '''
+ '''py
 import cv2
 import os
 import numpy as np
