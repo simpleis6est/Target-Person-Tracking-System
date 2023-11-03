@@ -2,6 +2,7 @@
 Target Person Tracking System
 
 On this project we intend to combine face recognition with person tracking, both of which are from Openvino. If the programme detects and identifies a certain person, the software proceeds to discern whether the coincidence rate is 70% or above in reference to the target previously learnt. Once the threshold has been met (i.e the programmes confirms that the person to be recognised), the software places a square around the person and tracks them. 
+In addition to the following code snippets for facial recongition and person tracking, we used data augmentation to train the programme images of the South Korean actor Wonbin.
 
 
 ### Virtual Enviroment
