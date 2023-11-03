@@ -26,7 +26,7 @@ python ./face_recognition_demo.py
 
 ### AI model 2.Object Tracking
 - Person Tracking with OpenVINO
-- Based on the training, this code snippet articulates the desirable individual when he/she is caught on camera by drawing a square around them. 
+- Based on training results, this code snippet enables articulating the desirable individual when he/she is caught on camera by drawing a square around them. 
 
 ### Image augmentation
 - For further precision, we added image augmentation to train the programme. 
