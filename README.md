@@ -22,7 +22,7 @@ python ./face_recognition_demo.py
 ### requirements.txt 
 
 ### AI model 1.facial recognition
-- The code snippet has code lines that obtain target individual's images from a directory. The code trains it self on the images for precision. 
+- The code snippet has code lines that obtain target individual's images from a directory. The software trains itself on the images for precision. 
 
 ### AI model 2.Object Tracking
 - Person Tracking with OpenVINO
